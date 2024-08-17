@@ -7,5 +7,5 @@
 Tabela da dispinobilidade:
 
 Pista | Cadeira Superior | Cadeira Inferior
----| 
+---| --- | --- 
 100 | 200 | 400
